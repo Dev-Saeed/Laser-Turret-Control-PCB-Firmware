@@ -152,15 +152,58 @@
 
 ```bash
 ├── firmware/
-│   ├── control_station_esp32/    # Reads joystick/buttons + receives CV serial commands
-│   ├── turret_esp32/             # Main turret logic (laser/servo/stepper/feedback)
-│   └── turret_stm32/             # Handles relays and limit switch interface
+│   ├── control_station_esp32/        # Control station (joystick, buttons, PC communication)
+│   │   ├── include/                  # Header files
+│   │   │   ├── JsonMessenger.h
+│   │   │   └── StationConfig.h
+│   │   ├── src/                      # Source files
+│   │   │   ├── JsonMessenger.cpp
+│   │   │   ├── StationConfig.cpp
+│   │   │   └── main.cpp
+│   │   ├── lib/                      # External libraries
+│   │   └── README
+│   │
+│   ├── turret_esp32/                 # Main turret logic (motors, laser, feedback)
+│   │   ├── include/                  # Header files
+│   │   │   ├── JsonMessenger.h
+│   │   │   ├── STM_Link.h
+│   │   │   ├── SerialSpeedInput.h
+│   │   │   ├── TurretConfig.h
+│   │   │   ├── ddl_servo.h
+│   │   │   ├── nema_driver.h
+│   │   │   ├── physics.h
+│   │   │   ├── st_driver.h
+│   │   │   └── stepper_focus_driver.h
+│   │   ├── src/                      # Source files
+│   │   │   ├── JsonMessenger.cpp
+│   │   │   ├── STM_Link.cpp
+│   │   │   ├── TurretConfig.cpp
+│   │   │   ├── ddl_servo.cpp
+│   │   │   ├── nema_driver.cpp
+│   │   │   ├── physics.cpp
+│   │   │   ├── st_driver.cpp
+│   │   │   ├── stepper_focus_driver.cpp
+│   │   │   └── main.cpp
+│   │   ├── lib/                      # External libraries (Servo, Dynamixel, etc.)
+│   │   │   ├── Dynamixel2Arduino/
+│   │   │   ├── SCServo/
+│   │   │   └── ServoDriverST/
+│   │   └── test/
+│   │
+│   └── turret_stm32/                 # Low-level I/O, relays, limit switches
+│       ├── Core/                     # Application core (HAL, main loop)
+│       ├── Drivers/                  # STM32 HAL & BSP drivers
+│       ├── metadata/                 # Project metadata
+│       ├── settings/                 # Build / configuration files
+│       └── Debug/
+│
 ├── pcb/
-│   └── turret_control_station_pcb_design/  # Single PCB used for both modules
+│   └── turret_control_station_pcb_design/   # Shared PCB for turret & control station
+│
 ├── docs/
-│   └── readme_assets/            # Diagrams, schematics, images
-├── README.md
-```
+│   └── readme_assets/                # Diagrams, schematics, images
+│
+└── README.md
 
 ---
 
