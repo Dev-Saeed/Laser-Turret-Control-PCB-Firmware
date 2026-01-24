@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C11 Old Footprint=CC1608-0603L New Footprint=CC3216-1206L
+Change Component Footprint: Designator=C12 Old Footprint=CC1608-0603L New Footprint=CC3216-1206L
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Black

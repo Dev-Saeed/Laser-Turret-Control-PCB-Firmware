@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=K8 Pin=D5-2
+Removed Pin From Net: NetName=K7 Pin=D6-2
+Removed Pin From Net: NetName=K8 Pin=K1-2
+Removed Pin From Net: NetName=K7 Pin=K2-2
+Removed Pin From Net: NetName=+12VDC Pin=K2-3
+Added Component: Designator=P?(HDR_MALE_1X2_2.50mm_JST)
+Add component (AddParameter): Name = "Component Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "DG128-5.0-02P-14-00AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.10443"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=K7 Pin=D5-2
+Added Pin To Net: NetName=NO2 Pin=D6-2
+Added Pin To Net: NetName=K7 Pin=K1-2
+Added Pin To Net: NetName=Power - Pin=K2-1
+Added Pin To Net: NetName=NO2 Pin=K2-2
+Added Pin To Net: NetName=K8 Pin=K2-3
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=NO2 Pin=P1-2
+Added Pin To Net: NetName=NO2 Pin=P4-2
+Added Pin To Net: NetName=NO2 Pin=P?-1
+Added Pin To Net: NetName=K8 Pin=P?-2
+Added Pin To Net: NetName=SDA Pin=U1-33
+Added Pin To Net: NetName=SCL Pin=U1-36
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x2, 2P

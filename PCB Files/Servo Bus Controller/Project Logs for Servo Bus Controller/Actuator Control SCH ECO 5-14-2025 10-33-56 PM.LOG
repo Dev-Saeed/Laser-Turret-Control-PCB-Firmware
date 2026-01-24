@@ -1,0 +1,40 @@
+Remove Pin=K4B-4 From Net=NO1
+Remove Pin=K5B-4 From Net=NO2
+Remove Pin=K6B-4 From Net=NO3
+Remove Pin=K7B-4 From Net=NO4
+Remove Pin=K8B-4 From Net=NO5
+Remove Pin=K9B-4 From Net=NO6
+Remove Pin=P1-1 From Net=K8
+Remove Pin=P2-1 From Net=K7
+Remove Pin=U2A-11 From Net=K1
+Remove Pin=U2A-12 From Net=K2
+Remove Pin=U2A-13 From Net=K3
+Remove Pin=U2A-14 From Net=K4
+Remove Pin=U2A-15 From Net=K5
+Remove Pin=U2A-16 From Net=K6
+Change Component Footprint: Designator=Power Input1 Old Footprint=2EDGVM-5.0-02P-14 New Footprint=DG128-5.0-02P-14
+Change Component Footprint: Designator=Power Input2 Old Footprint=DG128-5.0-02P-14 New Footprint=2EDGVM-5.0-02P-14
+Change Component Footprint: Designator=P12 Old Footprint=HDR_MALE_1X2_2.50mm_JST New Footprint=DG128-5.0-02P-14
+Change Component Comment: Designator=M1 Old Comment=HOLE New Comment=MOUNTING HOLE
+Change Component Comment: Designator=M2 Old Comment=HOLE New Comment=MOUNTING HOLE
+Change Component Comment: Designator=M3 Old Comment=HOLE New Comment=MOUNTING HOLE
+Change Component Comment: Designator=M4 Old Comment=HOLE New Comment=MOUNTING HOLE
+Add Pin To Net: Pin=K2B-4 Old Net=Safety New Net=NO2
+Add Pin To Net: Pin=K4B-4 Old Net=NO1 New Net=NO4
+Add Pin To Net: Pin=K5B-4 Old Net=NO2 New Net=NO5
+Add Pin To Net: Pin=K6B-4 Old Net=NO3 New Net=NO6
+Add Pin To Net: Pin=P1-1 Old Net=K8 New Net=K7
+Add Pin To Net: Pin=P2-1 Old Net=K7 New Net=K8
+Add Pin To Net: Pin=U1-7 Old Net=CAN_TX New Net=PA1
+Add Pin To Net: Pin=U1-8 Old Net=CAN_RX New Net=PA2
+Add Pin To Net: Pin=U1-9 Old Net=Buzzer New Net=PA3
+Add Pin To Net: Pin=U1-10 Old Net=NetU1_10 New Net=PA4
+Add Pin To Net: Pin=U1-11 Old Net=NetU1_11 New Net=PA5
+Add Pin To Net: Pin=U1-12 Old Net=NetU1_12 New Net=PA6
+Change Pin Designator/Name:  Old Designator=K2B-4 Old Name=NO New Designator =COIL2 New Name=1
+Change Pin Designator/Name:  Old Designator=K3B-4 Old Name=NO New Designator =COIL2 New Name=1
+Change Pin Designator/Name:  Old Designator=K7A-1 Old Name=COIL2 New Designator =NO New Name=4
+Change Pin Designator/Name:  Old Designator=K8A-1 Old Name=COIL2 New Designator =NO New Name=4
+Change Pin Designator/Name:  Old Designator=U1-7 Old Name=IO32 New Designator =IO23 New Name=37
+Change Pin Designator/Name:  Old Designator=U1-8 Old Name=IO33 New Designator =IO22 New Name=36
+Change Pin Designator/Name:  Old Designator=U1-9 Old Name=IO25 New Designator =IO21 New Name=33

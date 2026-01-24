@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NO1 Pin=K1-4
+Removed Pin From Net: NetName=NO3 Pin=K3-4
+Added Pin To Net: NetName=NO3 Pin=K1-4
+Added Pin To Net: NetName=NO1 Pin=K3-4
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Change Net Name : Old Net Name=NO1 New Net Name=NO3
+Change Net Name : Old Net Name=NO3 New Net Name=NO1
+Added Member To Class: ClassName=Actuator Control Member=Component P6 CONNECTOR, 1x3, 3P

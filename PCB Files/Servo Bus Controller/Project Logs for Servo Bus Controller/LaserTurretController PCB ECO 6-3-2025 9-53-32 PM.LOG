@@ -1,0 +1,15 @@
+Added Component: Designator=Q7(SOT89R_INFINEON)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BCX56-16,115/Nexperia/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BCX56-16,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT89-3 Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BCX56-16,115/Nexperia/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetD13_1 Pin=Q7-2
+Added Pin To Net: NetName=NetD13_1 Pin=Q7-2
+Added Pin To Net: NetName=GND Pin=Q7-3
+Added Pin To Net: NetName=NetU1_1 Pin=U1-39
+Added Member To Class: ClassName=Actuator Control Member=Component Q7 BCX56

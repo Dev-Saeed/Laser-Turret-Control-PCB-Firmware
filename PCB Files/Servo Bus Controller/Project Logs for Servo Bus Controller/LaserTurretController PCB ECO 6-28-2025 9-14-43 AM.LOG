@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q7
+Added Pin To Net: NetName=NO4 Pin=K4-4
+Added Pin To Net: NetName=NetD12_1 Pin=K5-4
+Added Pin To Net: NetName=GND Pin=K7-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K9-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-39
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetQ7_1

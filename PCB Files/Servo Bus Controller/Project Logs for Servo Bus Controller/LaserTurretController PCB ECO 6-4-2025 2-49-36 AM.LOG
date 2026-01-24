@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-39

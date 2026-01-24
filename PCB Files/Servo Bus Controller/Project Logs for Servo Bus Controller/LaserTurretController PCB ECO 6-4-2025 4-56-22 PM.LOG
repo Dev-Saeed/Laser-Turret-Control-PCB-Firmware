@@ -1,0 +1,102 @@
+Added Component: Designator=ESD2(DIOM4325X250N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMAJ40CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SMAJ40CA-HT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.012908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESD3(DIOM4325X250N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMAJ40CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SMAJ40CA-HT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.012908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESD4(DIOM4325X250N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMAJ40CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SMAJ40CA-HT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.012908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESD5(DIOM4325X250N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMAJ40CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SMAJ40CA-HT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.012908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESD6(DIOM4325X250N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMAJ40CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SMAJ40CA-HT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.012908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESD7(SOT23-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SDT23C24L02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.09211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESD8(SOT23-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SDT23C24L02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.09211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESD9(SOT23-3)
+Add component (AddParameter): Name = "Component Type"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SDT23C24L02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.09211"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ESD2-1
+Added Pin To Net: NetName=NO5 Pin=ESD2-2
+Added Pin To Net: NetName=GND Pin=ESD3-1
+Added Pin To Net: NetName=NO6 Pin=ESD3-2
+Added Pin To Net: NetName=GND Pin=ESD4-1
+Added Pin To Net: NetName=NO1 Pin=ESD4-2
+Added Pin To Net: NetName=GND Pin=ESD5-1
+Added Pin To Net: NetName=NO2 Pin=ESD5-2
+Added Pin To Net: NetName=GND Pin=ESD6-1
+Added Pin To Net: NetName=NO4 Pin=ESD6-2
+Added Pin To Net: NetName=RX_Direct Pin=ESD7-1
+Added Pin To Net: NetName=TX_Direct Pin=ESD7-2
+Added Pin To Net: NetName=GND Pin=ESD7-3
+Added Pin To Net: NetName=MB_N Pin=ESD8-1
+Added Pin To Net: NetName=MB_P Pin=ESD8-2
+Added Pin To Net: NetName=GND Pin=ESD8-3
+Added Pin To Net: NetName=CAN_N Pin=ESD9-1
+Added Pin To Net: NetName=CAN_P Pin=ESD9-2
+Added Pin To Net: NetName=GND Pin=ESD9-3
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Pin To Net: NetName=NO7 Pin=K7-4
+Added Net: Name=NO7
+Added Pin To Net: NetName=NO8 Pin=K8-4
+Added Net: Name=NO8
+Added Pin To Net: NetName=NO9 Pin=K9-4
+Added Net: Name=NO9
+Added Member To Class: ClassName=Actuator Control Member=Component ESD2 SMAJ40CA
+Added Member To Class: ClassName=Actuator Control Member=Component ESD3 SMAJ40CA
+Added Member To Class: ClassName=Actuator Control Member=Component ESD4 SMAJ40CA
+Added Member To Class: ClassName=Actuator Control Member=Component ESD5 SMAJ40CA
+Added Member To Class: ClassName=Actuator Control Member=Component ESD6 SMAJ40CA
+Added Member To Class: ClassName=Actuator Control Member=Component ESD7 SDT23C24L02
+Added Member To Class: ClassName=Actuator Control Member=Component ESD8 SDT23C24L02
+Added Member To Class: ClassName=Actuator Control Member=Component ESD9 SDT23C24L02

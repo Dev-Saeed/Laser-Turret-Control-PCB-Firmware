@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NO8 Pin=K5-4
+Added Pin To Net: NetName=NO2 Pin=K7-1
+Added Pin To Net: NetName=GND Pin=K9-1
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Member To Class: ClassName=Actuator Control Member=Component K4 HF152FD
+Added Member To Class: ClassName=Actuator Control Member=Component K5 HF152FD
+Added Member To Class: ClassName=Actuator Control Member=Component K9 HF152FD
+Added Member To Class: ClassName=Actuator Control Member=Component Q3 BCX56
+Added Member To Class: ClassName=Actuator Control Member=Component Q5 BCX56
+Added Member To Class: ClassName=Actuator Control Member=Component Q6 BCX56

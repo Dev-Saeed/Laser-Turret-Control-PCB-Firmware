@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=+5VDC Pin=P?-1
+Removed Pin From Net: NetName=+12VDC Pin=P?-1
+Removed Pin From Net: NetName=GND Pin=P?-1
+Removed Pin From Net: NetName=+5VDC Pin=P?-2
+Removed Pin From Net: NetName=+12VDC Pin=P?-2
+Removed Pin From Net: NetName=GND Pin=P?-2
+Removed Pin From Net: NetName=+5VDC Pin=P?-3
+Removed Pin From Net: NetName=+12VDC Pin=P?-3
+Removed Pin From Net: NetName=GND Pin=P?-3
+Removed Pin From Net: NetName=+5VDC Pin=P?-4
+Removed Pin From Net: NetName=+12VDC Pin=P?-4
+Removed Pin From Net: NetName=GND Pin=P?-4
+Removed Pin From Net: NetName=+5VDC Pin=P?-5
+Removed Pin From Net: NetName=+12VDC Pin=P?-5
+Removed Pin From Net: NetName=GND Pin=P?-5
+Change Component Designator: OldDesignator=P? NewDesignator=P17
+Change Component Designator: OldDesignator=P? NewDesignator=P18
+Change Component Designator: OldDesignator=Q? NewDesignator=Q9
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=SDA Pin=U1-33
+Added Pin To Net: NetName=SCL Pin=U1-36
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP18_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ9_1
+Added Member To Class: ClassName=Actuator Control Member=Component P17 CONNECTOR, 1x2, 2P
+Added Member To Class: ClassName=Actuator Control Member=Component P18 CONNECTOR, 1x2, 2P
+Added Member To Class: ClassName=Actuator Control Member=Component Q9 BCX56
+Added Member To Class: ClassName=Actuator Control Member=Component R25 1K
+Added Member To Class: ClassName=Actuator Control Member=Component R26 4k7

@@ -1,0 +1,50 @@
+Added Component: Designator=P?(HDR_MALE_1X2_2.50mm_JST)
+Add component (AddParameter): Name = "Component Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "DG128-5.0-02P-14-00AH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.10443"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q?(SOT89R_INFINEON)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BCX56-16,115/Nexperia/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BCX56-16,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT89-3 Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BCX56-16,115/Nexperia/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(CR3216-1206l)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "RC1206JR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.0000351"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(CR3216-1206l)
+Add component (AddParameter): Name = "Component Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "RC1206JR-074K7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.0000351"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=+12VDC Pin=P?-2
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=PB12 Pin=R?-2
+Added Pin To Net: NetName=PB12 Pin=R?-2
+Added Pin To Net: NetName=SDA Pin=U1-33
+Added Pin To Net: NetName=SCL Pin=U1-36
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=Q?-2
+Added Net: Name=NetP?_1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Net: Name=NetQ?_1
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x5, 5P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x5, 5P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x2, 2P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x2, 2P
+Added Member To Class: ClassName=Actuator Control Member=Component Q? BCX56
+Added Member To Class: ClassName=Actuator Control Member=Component R? 1K
+Added Member To Class: ClassName=Actuator Control Member=Component R? 4k7

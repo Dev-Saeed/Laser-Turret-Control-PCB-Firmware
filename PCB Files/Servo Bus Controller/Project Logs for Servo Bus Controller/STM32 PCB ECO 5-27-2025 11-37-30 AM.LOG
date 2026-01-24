@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Add Pin To Net: Unknown Pin: Pin P15-1
+Add Pin To Net: Unknown Pin: Pin P15-2
+Add Pin To Net: Unknown Pin: Pin P15-3
+Add Pin To Net: Unknown Pin: Pin P15-4
+Add Pin To Net: Unknown Pin: Pin P15-5
+Add Pin To Net: Unknown Pin: Pin P15-6
+Add Pin To Net: Unknown Pin: Pin P15-7
+Add Pin To Net: Unknown Pin: Pin P15-8
+Added Pin To Net: NetName=K3 Pin=U1-33
+Added Pin To Net: NetName=K2 Pin=U1-36
+Add Class Member: Failed to add class member : Component P15 CONNECTOR 1X8-8P

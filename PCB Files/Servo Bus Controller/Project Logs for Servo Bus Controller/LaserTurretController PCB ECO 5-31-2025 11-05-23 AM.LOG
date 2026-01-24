@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=Step1 Pin=P7-1
+Removed Pin From Net: NetName=Step2 Pin=P7-2
+Removed Pin From Net: NetName=Step3 Pin=P7-3
+Removed Pin From Net: NetName=Step4 Pin=P7-4
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=Step4 Pin=P7-1
+Added Pin To Net: NetName=Step3 Pin=P7-2
+Added Pin To Net: NetName=Step2 Pin=P7-3
+Added Pin To Net: NetName=Step1 Pin=P7-4
+Added Pin To Net: NetName=SDA Pin=U1-33
+Added Pin To Net: NetName=SCL Pin=U1-36

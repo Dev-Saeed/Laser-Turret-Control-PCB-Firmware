@@ -1,0 +1,71 @@
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Pin To Net: NetName=LED1 Pin=U1-43
+Added Pin To Net: NetName=LED2 Pin=U1-44
+Added Pin To Net: NetName=STM32_TX3 Pin=U1-45
+Added Pin To Net: NetName=STM32_RX3 Pin=U1-46
+Added Pin To Net: NetName=Step1 Pin=U1-47
+Added Pin To Net: NetName=Step2 Pin=U1-48
+Added Pin To Net: NetName=Step3 Pin=U1-49
+Added Pin To Net: NetName=Step4 Pin=U1-50
+Added Pin To Net: NetName=NetC10_1 Pin=U1-57
+Added Pin To Net: NetName=SCL Pin=U1-60
+Added Pin To Net: NetName=SDA Pin=U1-63
+Added Pin To Net: NetName=S_TXD Pin=U1-65
+Added Pin To Net: NetName=S_RXD Pin=U1-66
+Added Pin To Net: NetName=MOD_EN Pin=U1-67
+Added Pin To Net: NetName=MOD_TX Pin=U1-68
+Added Pin To Net: NetName=MOD_RX Pin=U1-69
+Added Pin To Net: NetName=Button Pin=U1-70
+Added Pin To Net: NetName=S1 Pin=U1-72
+Added Pin To Net: NetName=S2 Pin=U1-73
+Added Pin To Net: NetName=NetC10_1 Pin=U1-101
+Added Pin To Net: NetName=GND Pin=U1-102
+Added Pin To Net: NetName=GND Pin=U1-103
+Added Pin To Net: NetName=NetC10_1 Pin=U1-104
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-40
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U1-41
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=NetU1_4 Pin=U1-42
+Added Net: Name=NetU1_4
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Pin To Net: NetName=NetU1_13 Pin=U1-51
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Pin To Net: NetName=NetU1_15 Pin=U1-53
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Pin To Net: NetName=NetU1_16 Pin=U1-54
+Added Net: Name=NetU1_16
+Added Pin To Net: NetName=NetU1_17 Pin=U1-17
+Added Pin To Net: NetName=NetU1_17 Pin=U1-55
+Added Net: Name=NetU1_17
+Added Pin To Net: NetName=NetU1_18 Pin=U1-18
+Added Pin To Net: NetName=NetU1_18 Pin=U1-56
+Added Net: Name=NetU1_18
+Added Pin To Net: NetName=NetU1_20 Pin=U1-20
+Added Pin To Net: NetName=NetU1_20 Pin=U1-76
+Added Net: Name=NetU1_20
+Added Pin To Net: NetName=NetU1_21 Pin=U1-21
+Added Pin To Net: NetName=NetU1_21 Pin=U1-75
+Added Net: Name=NetU1_21
+Added Pin To Net: NetName=NetU1_22 Pin=U1-22
+Added Pin To Net: NetName=NetU1_22 Pin=U1-74
+Added Net: Name=NetU1_22
+Added Pin To Net: NetName=NetU1_25 Pin=U1-25
+Added Pin To Net: NetName=NetU1_25 Pin=U1-71
+Added Net: Name=NetU1_25
+Added Pin To Net: NetName=NetU1_34 Pin=U1-34
+Added Pin To Net: NetName=NetU1_34 Pin=U1-62
+Added Net: Name=NetU1_34
+Added Pin To Net: NetName=NetU1_35 Pin=U1-35
+Added Pin To Net: NetName=NetU1_35 Pin=U1-61
+Added Net: Name=NetU1_35
+Added Pin To Net: NetName=NetU1_37 Pin=U1-37
+Added Pin To Net: NetName=NetU1_37 Pin=U1-59
+Added Net: Name=NetU1_37

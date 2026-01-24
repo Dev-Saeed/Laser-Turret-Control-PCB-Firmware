@@ -1,0 +1,9 @@
+Added Component: Designator=P11(HDR_MALE_1X3_3P_2.54MM_180)
+Add component (AddParameter): Name = "Component Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX_Direct_5V Pin=P11-1
+Added Pin To Net: NetName=RX_Direct Pin=P11-2
+Added Pin To Net: NetName=GND Pin=P11-3
+Added Member To Class: ClassName=Actuator Control Member=Component P11 CONNECTOR, 1x3, 3P

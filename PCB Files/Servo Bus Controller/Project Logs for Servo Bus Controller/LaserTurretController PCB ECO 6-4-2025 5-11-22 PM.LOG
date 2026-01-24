@@ -1,0 +1,31 @@
+Added Component: Designator=D19(SMB)
+Add component (AddParameter): Name = "Component Type"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SS26-SMB-JQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.006698"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ESD10(DIOM4325X250N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SMAJ40CA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SMAJ40CA-HT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.012908"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D19-1
+Added Pin To Net: NetName=GND Pin=ESD10-1
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=NetD11_1 Pin=K7-4
+Added Pin To Net: NetName=NetD12_1 Pin=K8-4
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_2 Pin=ESD10-2
+Added Pin To Net: NetName=NetD19_2 Pin=P18-1
+Added Pin To Net: NetName=NetD19_2 Pin=Q9-2
+Added Pin To Net: NetName=NetD19_2 Pin=Q9-2
+Added Net: Name=NetD19_2
+Added Member To Class: ClassName=Actuator Control Member=Component D19 SS26
+Added Member To Class: ClassName=Actuator Control Member=Component ESD10 SMAJ40CA

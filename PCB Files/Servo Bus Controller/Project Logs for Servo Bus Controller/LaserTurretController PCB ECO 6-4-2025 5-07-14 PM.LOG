@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NO4 Pin=K4-4
+Removed Pin From Net: NetName=NO5 Pin=K5-4
+Removed Pin From Net: NetName=NO6 Pin=K6-4
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=NetD11_1 Pin=K7-4
+Added Pin To Net: NetName=NO4 Pin=K7-4
+Added Pin To Net: NetName=NetD12_1 Pin=K8-4
+Added Pin To Net: NetName=NO5 Pin=K8-4
+Added Pin To Net: NetName=NO6 Pin=K9-4
+Added Pin To Net: NetName=NetU1_1 Pin=U1-39
+Change Net Name : Old Net Name=NO4 New Net Name=NO7
+Change Net Name : Old Net Name=NO5 New Net Name=NO8
+Change Net Name : Old Net Name=NO6 New Net Name=NO9
+Added Pin To Net: NetName=NO4 Pin=K4-4
+Added Net: Name=NO4
+Added Pin To Net: NetName=NO5 Pin=K5-4
+Added Net: Name=NO5
+Added Pin To Net: NetName=NO6 Pin=K6-4
+Added Net: Name=NO6

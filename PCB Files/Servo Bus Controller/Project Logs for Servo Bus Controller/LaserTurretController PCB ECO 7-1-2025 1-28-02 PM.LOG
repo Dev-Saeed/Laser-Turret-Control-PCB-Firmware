@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Added Pin To Net: NetName=NetU1_1 Pin=U1-39
+Added Member To Class: ClassName=Actuator Control Member=Component P6 CONNECTOR, 1x3, 3P

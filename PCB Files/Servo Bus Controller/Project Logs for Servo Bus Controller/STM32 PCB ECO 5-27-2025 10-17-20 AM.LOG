@@ -1,0 +1,41 @@
+Added Component: Designator=P?(HDR_MALE_1X5_5P_2.54MM_180)
+Add component (AddParameter): Name = "Component Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR_MALE_1X5_5P_2.54MM_180)
+Add component (AddParameter): Name = "Component Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR_MALE_1X5_5P_2.54MM_180)
+Add component (AddParameter): Name = "Component Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=+5VDC Pin=P?-1
+Added Pin To Net: NetName=+12VDC Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=+5VDC Pin=P?-2
+Added Pin To Net: NetName=+12VDC Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=+5VDC Pin=P?-3
+Added Pin To Net: NetName=+12VDC Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=+5VDC Pin=P?-4
+Added Pin To Net: NetName=+12VDC Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=+5VDC Pin=P?-5
+Added Pin To Net: NetName=+12VDC Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=Power Input1-2
+Added Pin To Net: NetName=GND Pin=Power Input2-2
+Added Pin To Net: NetName=K3 Pin=U1-33
+Added Pin To Net: NetName=K2 Pin=U1-36
+Added Member To Class: ClassName=Servo Bus Controller Member=Component * Buzzer
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x2, 2P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x5, 5P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x5, 5P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x5, 5P

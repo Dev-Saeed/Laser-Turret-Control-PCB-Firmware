@@ -1,0 +1,13 @@
+/*
+ * esp32_link.h
+ *
+ *  Created on: Jul 21, 2025
+ *      Author: sj
+ */
+
+#ifndef INC_ESP32_LINK_H_
+#define INC_ESP32_LINK_H_
+
+
+
+#endif /* INC_ESP32_LINK_H_ */

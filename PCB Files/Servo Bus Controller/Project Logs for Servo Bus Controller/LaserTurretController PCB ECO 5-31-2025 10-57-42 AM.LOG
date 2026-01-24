@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=D19-1
+Removed Pin From Net: NetName=GND Pin=P7-4
+Removed Pin From Net: NetName=STM32_TX3 Pin=U1-10
+Removed Pin From Net: NetName=STM32_RX3 Pin=U1-11
+Removed Pin From Net: NetName=K1 Pin=U1-37
+Removed Member From Class: ClassName=Actuator Control Member=C20
+Removed Member From Class: ClassName=Actuator Control Member=D19
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=STM32_RX3 Pin=U1-36
+Added Pin To Net: NetName=STM32_TX3 Pin=U1-37
+Added Pin To Net: NetName=Step1 Pin=P7-1
+Added Pin To Net: NetName=Step1 Pin=U1-33
+Added Net: Name=Step1
+Added Pin To Net: NetName=Step2 Pin=P7-2
+Added Pin To Net: NetName=Step2 Pin=U1-10
+Added Net: Name=Step2
+Added Pin To Net: NetName=Step3 Pin=P7-3
+Added Pin To Net: NetName=Step3 Pin=U1-11
+Added Net: Name=Step3
+Added Pin To Net: NetName=Step4 Pin=P7-4
+Added Pin To Net: NetName=Step4 Pin=U1-12
+Added Net: Name=Step4
+Added Differential Pair: Name=MB

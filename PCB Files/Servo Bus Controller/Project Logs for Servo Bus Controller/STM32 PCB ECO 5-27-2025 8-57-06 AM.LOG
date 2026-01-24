@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P? Old Footprint=HDR_MALE_1X2_2.50mm_JST New Footprint=DG128-5.0-02P-14
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=K3 Pin=U1-33
+Added Pin To Net: NetName=K2 Pin=U1-36

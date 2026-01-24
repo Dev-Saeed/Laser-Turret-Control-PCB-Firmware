@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=L1 Pin=P15-1
+Removed Pin From Net: NetName=+3V3 Pin=P15-2
+Removed Pin From Net: NetName=+3V3 Pin=P15-4
+Removed Pin From Net: NetName=L3 Pin=P15-5
+Removed Pin From Net: NetName=+3V3 Pin=P15-6
+Removed Pin From Net: NetName=L4 Pin=P15-7
+Removed Pin From Net: NetName=+3V3 Pin=P15-8
+Removed Pin From Net: NetName=L5 Pin=P15-9
+Removed Pin From Net: NetName=+3V3 Pin=P15-10
+Removed Pin From Net: NetName=L6 Pin=P15-11
+Removed Pin From Net: NetName=+3V3 Pin=P15-12
+Change Comment: Unknown Component : P15
+Change Designator: Unknown Component : P15
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Add Pin To Net: Unknown Pin: Pin P?-1
+Add Pin To Net: Unknown Pin: Pin P?-2
+Add Pin To Net: Unknown Pin: Pin P?-4
+Add Pin To Net: Unknown Pin: Pin P?-5
+Add Pin To Net: Unknown Pin: Pin P?-6
+Add Pin To Net: Unknown Pin: Pin P?-7
+Add Pin To Net: Unknown Pin: Pin P?-8
+Added Pin To Net: NetName=SDA Pin=U1-33
+Added Pin To Net: NetName=SCL Pin=U1-36
+Add Class Member: Failed to add class member : Component P? CONNECTOR 1X8-8P

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=*-2
+Removed Member From Class: ClassName=Servo Bus Controller Member=*
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=K3 Pin=U1-33
+Added Pin To Net: NetName=K2 Pin=U1-36
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x5, 5P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x5, 5P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x5, 5P
+Added Member To Class: ClassName=Actuator Control Member=Component P? CONNECTOR, 1x2, 2P
+Added Member To Class: ClassName=Actuator Control Member=Component R? 1K

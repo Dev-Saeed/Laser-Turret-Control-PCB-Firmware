@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Actuator Control Member=Q7
+Added Pin To Net: NetName=NetD11_1 Pin=K4-4
+Added Pin To Net: NetName=NO5 Pin=K5-4
+Added Pin To Net: NetName=NO7 Pin=K7-1
+Added Pin To Net: NetName=GND Pin=K9-1
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Member To Class: ClassName=Actuator Control Member=Component Q1 BCX56

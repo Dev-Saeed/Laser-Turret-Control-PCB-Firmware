@@ -1,0 +1,13 @@
+Added Component: Designator=6(LED1206)
+Add component (AddParameter): Name = "Component Type"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "HL-PC-3216U51GC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.0016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net6_1 Pin=6-1
+Added Pin To Net: NetName=GND Pin=6-2
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Member To Class: ClassName=Servo Bus Controller Member=Component 6 LED

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=DATA Pin=P5-1
+Added Component: Designator=U?(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DBVT/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74LVC1T45DBVT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74LVC1T45DBVT/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=DATA Pin=U?-3
+Added Pin To Net: NetName=TXEN Pin=U?-5
+Added Pin To Net: NetName=+5VDC Pin=U?-6
+Added Pin To Net: NetName=DATA_5V Pin=P5-1
+Added Pin To Net: NetName=DATA_5V Pin=U?-4
+Added Net: Name=DATA_5V
+Added Member To Class: ClassName=Servo Bus Controller Member=Component U? SN74LVC1T45DBVT

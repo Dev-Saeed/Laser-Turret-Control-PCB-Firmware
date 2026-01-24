@@ -1,0 +1,7 @@
+../Core/Src/esp32_link.c:27:6:STM_SetUART	16	static
+../Core/Src/esp32_link.c:31:6:STM_SetOutputPins	32	static
+../Core/Src/esp32_link.c:40:6:STM_SetInputPins	32	static
+../Core/Src/esp32_link.c:50:13:applyRelayStates	32	static
+../Core/Src/esp32_link.c:57:16:readLimitSwitches	16	static
+../Core/Src/esp32_link.c:68:6:STM_ProcessIncoming	16	static
+../Core/Src/esp32_link.c:79:6:STM_SendInputs	8	static

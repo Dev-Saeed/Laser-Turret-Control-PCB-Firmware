@@ -1,0 +1,10 @@
+Added Component: Designator=K2(RELAY_HF152FD/012-1HS)
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=NO2 Pin=K2-2
+Added Pin To Net: NetName=K8 Pin=K2-3
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=NetD11_1 Pin=K7-4
+Added Pin To Net: NetName=NO8 Pin=K8-4
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Member To Class: ClassName=Actuator Control Member=Component K2 HF152FD

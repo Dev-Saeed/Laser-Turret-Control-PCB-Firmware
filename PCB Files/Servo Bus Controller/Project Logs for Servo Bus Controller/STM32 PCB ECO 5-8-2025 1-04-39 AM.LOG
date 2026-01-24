@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C10 Old Footprint=CAP AL-EL H12MM D8MM P3.5MM New Footprint=CC3216-1206L
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAP AL-EL H12MM D8MM P3.5MM"; UniqueID = "\XEUKYGSB" ("\XEUKYGSB")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ozdisan"; Value = "CL31B106KAHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PriceUSD"; Value = "0.006808"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"

@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=L1 Pin=U2-19
+Removed Pin From Net: NetName=L2 Pin=U2-20
+Removed Pin From Net: NetName=L3 Pin=U2-39
+Removed Pin From Net: NetName=L4 Pin=U2-40
+Removed Pin From Net: NetName=L5 Pin=U2-41
+Removed Pin From Net: NetName=L6 Pin=U2-42
+Removed Pin From Net: NetName=SCL Pin=U2-45
+Removed Pin From Net: NetName=SDA Pin=U2-46
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=NetD11_1 Pin=K7-4
+Added Pin To Net: NetName=NO8 Pin=K8-4
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Added Pin To Net: NetName=L1 Pin=U2-38
+Added Pin To Net: NetName=L2 Pin=U2-39
+Added Pin To Net: NetName=L3 Pin=U2-40
+Added Pin To Net: NetName=L4 Pin=U2-41
+Added Pin To Net: NetName=L5 Pin=U2-42
+Added Pin To Net: NetName=L6 Pin=U2-43
+Change Net Name : Old Net Name=PB12 New Net Name=Buzzer
+Added Pin To Net: NetName=Switch Pin=S2-2
+Added Pin To Net: NetName=Switch Pin=U2-45
+Added Net: Name=Switch

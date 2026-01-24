@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=Step1 Pin=U1-33
+Added Pin To Net: NetName=STM32_RX3 Pin=U1-36

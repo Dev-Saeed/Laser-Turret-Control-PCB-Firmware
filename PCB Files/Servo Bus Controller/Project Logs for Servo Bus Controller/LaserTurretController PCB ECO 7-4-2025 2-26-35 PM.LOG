@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DATA_5V Pin=P5-1
+Removed Pin From Net: NetName=DATA Pin=P6-1
+Added Pin To Net: NetName=DATA Pin=P5-1
+Added Pin To Net: NetName=DATA_5V Pin=P6-1

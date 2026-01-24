@@ -1,0 +1,200 @@
+2025-07-21 03:23:33,191 [INFO] WebApp:194 - Connection lost
+2025-07-21 03:23:41,788 [INFO] WebApp:191 - Connection restablished
+2025-07-21 11:09:46,759 [INFO] WebApp:194 - Connection lost
+2025-07-21 11:09:55,407 [INFO] WebApp:191 - Connection restablished
+2025-07-21 16:01:50,583 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:50,744 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:50,991 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:53,265 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:53,388 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:53,581 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:57,012 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:57,122 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:57,303 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:01:59,917 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:02:00,113 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:02:03,423 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 16:02:03,588 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 17:13:27,557 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 17:13:27,819 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 17:13:30,480 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 17:13:30,678 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 17:18:10,803 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 679345264 Bytes (801112064)
+2025-07-21 17:18:10,904 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 697171056 Bytes (801112064)
+2025-07-21 17:18:24,807 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 480234368 Bytes (801112064)
+2025-07-21 17:18:25,262 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-07-21 17:18:25,262 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-21 17:18:25,262 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-21 17:18:25,262 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-07-21 17:18:25,264 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-07-21 17:18:25,264 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-07-21 17:18:25,264 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-07-21 17:18:25,265 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-07-21 17:18:25,395 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/license.tmp_save
+2025-07-21 17:18:25,706 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/license.tmp
+2025-07-21 17:18:25,838 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/gpio.c_save
+2025-07-21 17:18:25,978 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/gpio.c
+2025-07-21 17:18:25,979 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/gpio.h_save
+2025-07-21 17:18:26,084 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/gpio.h
+2025-07-21 17:18:26,497 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/i2c.c_save
+2025-07-21 17:18:26,679 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/i2c.c
+2025-07-21 17:18:26,681 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/i2c.h_save
+2025-07-21 17:18:26,771 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/i2c.h
+2025-07-21 17:18:26,777 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/usart.c_save
+2025-07-21 17:18:26,891 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/usart.c
+2025-07-21 17:18:26,893 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/usart.h_save
+2025-07-21 17:18:26,957 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/usart.h
+2025-07-21 17:18:26,963 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_it.c_save
+2025-07-21 17:18:27,213 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_it.c
+2025-07-21 17:18:27,214 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_it.h_save
+2025-07-21 17:18:27,281 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_it.h
+2025-07-21 17:18:27,286 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_hal_msp.c_save
+2025-07-21 17:18:27,379 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_hal_msp.c
+2025-07-21 17:18:27,381 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/system.tmp_save
+2025-07-21 17:18:27,443 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/system.tmp
+2025-07-21 17:18:27,446 [INFO] CodeEngine:321 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_hal_conf.h_save
+2025-07-21 17:18:27,512 [INFO] CodeEngine:345 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_hal_conf.h
+2025-07-21 17:18:27,527 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/main.h_save
+2025-07-21 17:18:27,623 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/main.h
+2025-07-21 17:18:27,625 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/main.c_save
+2025-07-21 17:18:27,735 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/main.c
+2025-07-21 17:18:27,996 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 25mS.
+2025-07-21 17:18:27,998 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-07-21 17:18:28,106 [INFO] ConfigFileManager:1595 - The Die is : DIE448
+2025-07-21 17:18:29,078 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1079mS.
+2025-07-21 17:18:29,079 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-07-21 17:18:29,080 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-21 18:10:10,819 [INFO] Gpio:278 - dependency for GPIO [I2C2, RCC, USART1, USART3]
+2025-07-21 18:13:19,826 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 324153736 Bytes (801112064)
+2025-07-21 18:13:19,938 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 342284752 Bytes (801112064)
+2025-07-21 18:13:22,479 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 529674624 Bytes (801112064)
+2025-07-21 18:13:22,844 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-07-21 18:13:22,845 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-21 18:13:22,845 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-21 18:13:22,845 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-07-21 18:13:22,845 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-07-21 18:13:22,846 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-07-21 18:13:22,846 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-07-21 18:13:22,846 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-07-21 18:13:22,954 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/license.tmp_save
+2025-07-21 18:13:23,221 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/license.tmp
+2025-07-21 18:13:23,333 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/gpio.c_save
+2025-07-21 18:13:23,479 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/gpio.c
+2025-07-21 18:13:23,481 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/gpio.h_save
+2025-07-21 18:13:23,583 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/gpio.h
+2025-07-21 18:13:24,031 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/i2c.c_save
+2025-07-21 18:13:24,217 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/i2c.c
+2025-07-21 18:13:24,218 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/i2c.h_save
+2025-07-21 18:13:24,310 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/i2c.h
+2025-07-21 18:13:24,313 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/usart.c_save
+2025-07-21 18:13:24,429 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/usart.c
+2025-07-21 18:13:24,430 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/usart.h_save
+2025-07-21 18:13:24,495 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/usart.h
+2025-07-21 18:13:24,500 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_it.c_save
+2025-07-21 18:13:24,676 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_it.c
+2025-07-21 18:13:24,677 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_it.h_save
+2025-07-21 18:13:24,733 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_it.h
+2025-07-21 18:13:24,738 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_hal_msp.c_save
+2025-07-21 18:13:24,820 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_hal_msp.c
+2025-07-21 18:13:24,822 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/system.tmp_save
+2025-07-21 18:13:24,875 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/system.tmp
+2025-07-21 18:13:24,878 [INFO] CodeEngine:321 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_hal_conf.h_save
+2025-07-21 18:13:24,935 [INFO] CodeEngine:345 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_hal_conf.h
+2025-07-21 18:13:24,950 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/main.h_save
+2025-07-21 18:13:25,028 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/main.h
+2025-07-21 18:13:25,029 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/main.c_save
+2025-07-21 18:13:25,112 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/main.c
+2025-07-21 18:13:25,457 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 23mS.
+2025-07-21 18:13:25,458 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-07-21 18:13:25,560 [INFO] ConfigFileManager:1595 - The Die is : DIE448
+2025-07-21 18:13:26,624 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1165mS.
+2025-07-21 18:13:26,624 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-21 18:13:26,625 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-21 19:23:29,298 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 714251016 Bytes (801112064)
+2025-07-21 19:23:29,471 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 293437736 Bytes (801112064)
+2025-07-21 19:23:33,148 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 679835944 Bytes (801112064)
+2025-07-21 19:23:33,799 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-07-21 19:23:33,799 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-21 19:23:33,799 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-21 19:23:33,799 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-07-21 19:23:33,799 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-07-21 19:23:33,800 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-07-21 19:23:33,800 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-07-21 19:23:33,800 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-07-21 19:23:33,935 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/license.tmp_save
+2025-07-21 19:23:34,219 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/license.tmp
+2025-07-21 19:23:34,351 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/gpio.c_save
+2025-07-21 19:23:34,514 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/gpio.c
+2025-07-21 19:23:34,516 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/gpio.h_save
+2025-07-21 19:23:34,638 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/gpio.h
+2025-07-21 19:23:35,079 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/i2c.c_save
+2025-07-21 19:23:35,288 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/i2c.c
+2025-07-21 19:23:35,290 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/i2c.h_save
+2025-07-21 19:23:35,400 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/i2c.h
+2025-07-21 19:23:35,405 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/usart.c_save
+2025-07-21 19:23:35,575 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/usart.c
+2025-07-21 19:23:35,577 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/usart.h_save
+2025-07-21 19:23:35,671 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/usart.h
+2025-07-21 19:23:35,676 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_it.c_save
+2025-07-21 19:23:35,956 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_it.c
+2025-07-21 19:23:35,958 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_it.h_save
+2025-07-21 19:23:36,033 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_it.h
+2025-07-21 19:23:36,041 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_hal_msp.c_save
+2025-07-21 19:23:36,157 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_hal_msp.c
+2025-07-21 19:23:36,160 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/system.tmp_save
+2025-07-21 19:23:36,233 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/system.tmp
+2025-07-21 19:23:36,238 [INFO] CodeEngine:321 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_hal_conf.h_save
+2025-07-21 19:23:36,321 [INFO] CodeEngine:345 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_hal_conf.h
+2025-07-21 19:23:36,343 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/main.h_save
+2025-07-21 19:23:36,450 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/main.h
+2025-07-21 19:23:36,453 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/main.c_save
+2025-07-21 19:23:36,570 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/main.c
+2025-07-21 19:23:36,993 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 27mS.
+2025-07-21 19:23:36,996 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-07-21 19:23:37,131 [INFO] ConfigFileManager:1595 - The Die is : DIE448
+2025-07-21 19:23:38,221 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1225mS.
+2025-07-21 19:23:38,221 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-21 19:23:38,222 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-21 20:33:38,282 [INFO] Gpio:278 - dependency for GPIO [I2C2, RCC, USART1, USART3]
+2025-07-21 20:33:38,346 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-07-21 20:34:07,965 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2025-07-21 20:35:03,077 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 603682000 Bytes (801112064)
+2025-07-21 20:35:03,239 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 623513552 Bytes (801112064)
+2025-07-21 20:35:06,648 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 449046024 Bytes (801112064)
+2025-07-21 20:35:07,141 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-07-21 20:35:07,141 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-07-21 20:35:07,141 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-07-21 20:35:07,143 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-07-21 20:35:07,143 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-07-21 20:35:07,143 [INFO] CodeGenerator:892 - code generatio: config db path: /opt/st/stm32cubeide_1.19.0/plugins/com.st.stm32cube.common.mx_6.15.0.202507011659//db/
+2025-07-21 20:35:07,320 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/license.tmp_save
+2025-07-21 20:35:07,575 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/license.tmp
+2025-07-21 20:35:07,691 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/gpio.c_save
+2025-07-21 20:35:07,884 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/gpio.c
+2025-07-21 20:35:07,886 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/gpio.h_save
+2025-07-21 20:35:07,995 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/gpio.h
+2025-07-21 20:35:08,221 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/usart.c_save
+2025-07-21 20:35:08,416 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/usart.c
+2025-07-21 20:35:08,417 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/usart.h_save
+2025-07-21 20:35:08,521 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/usart.h
+2025-07-21 20:35:08,526 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_it.c_save
+2025-07-21 20:35:08,817 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_it.c
+2025-07-21 20:35:08,818 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_it.h_save
+2025-07-21 20:35:08,925 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_it.h
+2025-07-21 20:35:08,930 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_hal_msp.c_save
+2025-07-21 20:35:09,047 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/stm32f0xx_hal_msp.c
+2025-07-21 20:35:09,050 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/system.tmp_save
+2025-07-21 20:35:09,111 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/MXTmpFiles/system.tmp
+2025-07-21 20:35:09,116 [INFO] CodeEngine:321 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_hal_conf.h_save
+2025-07-21 20:35:09,205 [INFO] CodeEngine:345 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/stm32f0xx_hal_conf.h
+2025-07-21 20:35:09,227 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/main.h_save
+2025-07-21 20:35:09,319 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Inc/main.h
+2025-07-21 20:35:09,320 [INFO] CodeEngine:265 - oldGeneratedFile, /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/main.c_save
+2025-07-21 20:35:09,416 [INFO] CodeEngine:289 - Generated code: /home/sj/STM32CubeIDE/workspace/Turret_Firmawre/Core/Src/main.c
+2025-07-21 20:35:09,660 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 24mS.
+2025-07-21 20:35:09,662 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-07-21 20:35:09,766 [INFO] ConfigFileManager:1595 - The Die is : DIE448
+2025-07-21 20:35:10,875 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 1213mS.
+2025-07-21 20:35:10,876 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-21 20:35:10,877 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2025-07-21 20:38:38,883 [INFO] Gpio:278 - dependency for GPIO [RCC, USART3]

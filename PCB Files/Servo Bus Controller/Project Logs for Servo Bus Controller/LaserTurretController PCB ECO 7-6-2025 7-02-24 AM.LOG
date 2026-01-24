@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Add Pin To Net: Unknown Pin: Pin P11-1
+Add Pin To Net: Unknown Pin: Pin P11-2
+Add Pin To Net: Unknown Pin: Pin P11-3
+Add Class Member: Failed to add class member : Component P11 CONNECTOR, 1x3, 3P

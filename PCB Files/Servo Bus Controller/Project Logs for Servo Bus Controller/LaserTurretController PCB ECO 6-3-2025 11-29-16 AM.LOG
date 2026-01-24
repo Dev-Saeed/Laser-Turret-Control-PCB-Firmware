@@ -1,0 +1,32 @@
+Added Component: Designator=U1(MODULE_DEVKIT_V1_ESP32-WROOM-32)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DEVKIT%20V1%20ESP32-WROOM-32/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DEVKIT V1 ESP32-WROOM-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DEVKIT%20V1%20ESP32-WROOM-32/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=LED1 Pin=U1-5
+Added Pin To Net: NetName=LED2 Pin=U1-6
+Added Pin To Net: NetName=STM32_TX3 Pin=U1-7
+Added Pin To Net: NetName=STM32_RX3 Pin=U1-8
+Added Pin To Net: NetName=Step1 Pin=U1-9
+Added Pin To Net: NetName=Step2 Pin=U1-10
+Added Pin To Net: NetName=Step3 Pin=U1-11
+Added Pin To Net: NetName=Step4 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=NetC10_1 Pin=U1-19
+Added Pin To Net: NetName=S2 Pin=U1-23
+Added Pin To Net: NetName=S1 Pin=U1-24
+Added Pin To Net: NetName=Button Pin=U1-26
+Added Pin To Net: NetName=MOD_RX Pin=U1-27
+Added Pin To Net: NetName=MOD_TX Pin=U1-28
+Added Pin To Net: NetName=MOD_EN Pin=U1-29
+Added Pin To Net: NetName=S_RXD Pin=U1-30
+Added Pin To Net: NetName=S_TXD Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-32
+Added Pin To Net: NetName=SDA Pin=U1-33
+Added Pin To Net: NetName=SCL Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Member To Class: ClassName=Servo Bus Controller Member=Component U1 ESP32-DEVKIT_V1_ESP32-WROOM-32

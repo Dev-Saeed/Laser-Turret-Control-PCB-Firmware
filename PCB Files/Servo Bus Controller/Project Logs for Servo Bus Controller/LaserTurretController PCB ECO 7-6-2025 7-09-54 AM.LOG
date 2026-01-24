@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+5VDC Pin=J3-8
+Added Component: Designator=D20(SMB)
+Add component (AddParameter): Name = "Component Type"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ozdisan"; Value = "SS26-SMB-JQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PriceUSD"; Value = "0.006698"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5VDC Pin=D20-1
+Added Pin To Net: NetName=NetD20_2 Pin=D20-2
+Added Pin To Net: NetName=NetD20_2 Pin=J3-8
+Added Net: Name=NetD20_2
+Added Member To Class: ClassName=Actuator Control Member=Component D20 SS26

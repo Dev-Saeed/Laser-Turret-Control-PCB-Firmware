@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Turret_Firmawre/Core/Src/esp32_link.cpp&apos; to &apos;esp32_link.c&apos;" description="Rename resource &apos;esp32_link.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/esp32_link.cpp" name="esp32_link.c" stamp="1753107790056" updateReferences="true"/>
+</session>

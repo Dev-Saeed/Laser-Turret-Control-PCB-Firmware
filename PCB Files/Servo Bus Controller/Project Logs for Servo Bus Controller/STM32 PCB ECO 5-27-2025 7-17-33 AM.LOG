@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=Power - Pin=K3-1
+Added Pin To Net: NetName=K3 Pin=U1-33
+Added Pin To Net: NetName=K2 Pin=U1-36
+Change Net Color : Old Net Color=Black New Net Color=Red

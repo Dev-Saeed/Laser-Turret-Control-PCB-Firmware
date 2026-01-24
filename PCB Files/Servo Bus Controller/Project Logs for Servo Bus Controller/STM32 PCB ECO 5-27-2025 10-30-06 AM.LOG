@@ -1,0 +1,16 @@
+Added Component: Designator=P19(HDR_MALE_2X3_6P_2.54MM_180)
+Add component (AddParameter): Name = "Component Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NO2 Pin=K2-1
+Added Pin To Net: NetName=GND Pin=K3-1
+Added Pin To Net: NetName=+12VDC Pin=P19-1
+Added Pin To Net: NetName=GND Pin=P19-2
+Added Pin To Net: NetName=+5VDC Pin=P19-3
+Added Pin To Net: NetName=+12VDC Pin=P19-4
+Added Pin To Net: NetName=GND Pin=P19-5
+Added Pin To Net: NetName=+5VDC Pin=P19-6
+Added Pin To Net: NetName=K3 Pin=U1-33
+Added Pin To Net: NetName=K2 Pin=U1-36
+Added Member To Class: ClassName=Actuator Control Member=Component P19 CONNECTOR, 1x3, 3P

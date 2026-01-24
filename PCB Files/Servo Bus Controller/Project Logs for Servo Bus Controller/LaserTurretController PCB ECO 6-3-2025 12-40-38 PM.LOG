@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=3V3 Pin=U1-39
+Change Net Name : Old Net Name=NetU?_1 New Net Name=NetU1_1
+Change Net Name : Old Net Name=NetU?_2 New Net Name=NetU1_2
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU1_3
+Change Net Name : Old Net Name=NetU?_4 New Net Name=NetU1_4
+Change Net Name : Old Net Name=NetU?_13 New Net Name=NetU1_13
+Change Net Name : Old Net Name=NetU?_15 New Net Name=NetU1_15
+Change Net Name : Old Net Name=NetU?_16 New Net Name=NetU1_16
+Change Net Name : Old Net Name=NetU?_17 New Net Name=NetU1_17
+Change Net Name : Old Net Name=NetU?_18 New Net Name=NetU1_18
+Change Net Name : Old Net Name=NetU?_20 New Net Name=NetU1_20
+Change Net Name : Old Net Name=NetU?_21 New Net Name=NetU1_21
+Change Net Name : Old Net Name=NetU?_22 New Net Name=NetU1_22
+Change Net Name : Old Net Name=NetU?_25 New Net Name=NetU1_25
+Change Net Name : Old Net Name=NetU?_34 New Net Name=NetU1_34
+Change Net Name : Old Net Name=NetU?_35 New Net Name=NetU1_35
+Change Net Name : Old Net Name=NetU?_37 New Net Name=NetU1_37
+Added Member To Class: ClassName=Servo Bus Controller Member=Component U1 ESP32-DEVKIT_V1_ESP32-WROOM-32

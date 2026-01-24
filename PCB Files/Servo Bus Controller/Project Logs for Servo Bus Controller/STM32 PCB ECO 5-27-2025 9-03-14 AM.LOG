@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=buzzer Pin=R29-2
+Removed Member From Class: ClassName=Servo Bus Controller Member=R29
+Added Pin To Net: NetName=buzzer Pin=*-1
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=SDA Pin=U1-33
+Added Pin To Net: NetName=SCL Pin=U1-36

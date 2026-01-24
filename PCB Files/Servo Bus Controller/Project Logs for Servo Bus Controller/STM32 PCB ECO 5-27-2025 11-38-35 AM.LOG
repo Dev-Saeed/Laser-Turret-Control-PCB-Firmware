@@ -1,0 +1,18 @@
+Added Component: Designator=P15(HDR_MALE_1X8_8P_2.54MM_180)
+Add component (AddParameter): Name = "Component Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock Description"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=K2-1
+Added Pin To Net: NetName=Lasers+12VDC Pin=K3-1
+Added Pin To Net: NetName=+3V3 Pin=P15-1
+Added Pin To Net: NetName=L1 Pin=P15-2
+Added Pin To Net: NetName=L2 Pin=P15-3
+Added Pin To Net: NetName=L3 Pin=P15-4
+Added Pin To Net: NetName=L4 Pin=P15-5
+Added Pin To Net: NetName=L5 Pin=P15-6
+Added Pin To Net: NetName=L6 Pin=P15-7
+Added Pin To Net: NetName=GND Pin=P15-8
+Added Pin To Net: NetName=SDA Pin=U1-33
+Added Pin To Net: NetName=SCL Pin=U1-36
+Added Member To Class: ClassName=Actuator Control Member=Component P15 CONNECTOR 1X8-8P

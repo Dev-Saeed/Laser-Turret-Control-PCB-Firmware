@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=K1 NewDesignator=K8
+Change Component Designator: OldDesignator=K2 NewDesignator=K7
+Change Component Designator: OldDesignator=K3 NewDesignator=K9
+Change Component Designator: OldDesignator=K4 NewDesignator=K1
+Change Component Designator: OldDesignator=K5 NewDesignator=K2
+Change Component Designator: OldDesignator=K6 NewDesignator=K3
+Change Component Designator: OldDesignator=K7 NewDesignator=K4
+Change Component Designator: OldDesignator=K8 NewDesignator=K5
+Change Component Designator: OldDesignator=K9 NewDesignator=K6
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q6
+Added Pin To Net: NetName=NetD12_1 Pin=K5-4
+Added Pin To Net: NetName=GND Pin=K7-1
+Added Pin To Net: NetName=K7 Pin=K7-3
+Added Pin To Net: NetName=Lasers+12VDC Pin=K9-1
+Added Pin To Net: NetName=NetU1_1 Pin=U1-39
+Change Net Name : Old Net Name=K7 New Net Name=K8
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ6_1 New Net Name=NetQ5_1
+Change Net Name : Old Net Name=NetQ7_1 New Net Name=NetQ6_1
+Added Pin To Net: NetName=K7 Pin=P2-1
+Added Pin To Net: NetName=K7 Pin=P17-2
+Added Net: Name=K7
